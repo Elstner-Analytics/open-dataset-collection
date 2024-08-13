@@ -1,9 +1,15 @@
-# Useful datasets and tooling for LLM finetuning
-We collect dataset, tools and other resources that can help with various aspects of LLM model creation/finetuning. As well as embedding model tuning, re-rankers, classifiers and document vision/OCR tasks.
+# Useful datasets and tooling for LLM fine tuning
+We collect dataset, tools and other resources that can help with various aspects of LLM model creation/fine tuning. As well as embedding model tuning, re-rankers, classifiers and document vision/OCR tasks.
 
 We focus on high quality entries, which means that everything you find here was tested and used by us (Elstner Analytics, [elstner.dev](https://elstner.dev)) in a project. If you have a dataset or a dataset tool, feel free to open a pull request.
 
 ## Instruction data
+
+### Q&A datasets
+
+| Name | Provider | License | Paper | Dataset | Comment |
+| ---- | -------- | ------- | ----- | ------- | ------- |
+| financial-qa-10K | [virattt](https://x.com/virattt/status/1792665590676488597) | MIT | -- | [GitHub](https://github.com/virattt/financial-datasets) | [Hugging Face](https://huggingface.co/datasets/virattt/financial-qa-10K) | Synthetic Q&A dataset for financial domain, generated from 10K filings: the released dataset is of limited size (7000 qa pairs), but the provided code allows you to generate more (accepts plain text, pdf as input or automatically download 10-K, 10-Q filings if provided ticker and year). |
 
 ### Tooling
 
