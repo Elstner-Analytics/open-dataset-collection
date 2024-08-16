@@ -19,6 +19,12 @@ We focus on high quality entries, which means that everything you find here was 
 
 ## Search and rank
 
+### Product search
+
+| Name | Provider | License | Links | Comment |
+| ---- | -------- | ------- | ----- | ------- |
+| Amazon Products 2023 | Kaggle | [ODC-By](https://opendatacommons.org/licenses/by/1-0/index.html) | [Dataset](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products/data) | A dataset of 1.4M Amazon products, with product title, description, price, brand, category, and other metadata. The dataset is intended for research in the area of product search and recommendation, scraped in fall of 2023. Product categories center around consumer topics |
+
 ### Auxiliar tasks
 
 | Name | Provider | License | Links | Comment |
